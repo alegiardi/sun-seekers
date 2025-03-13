@@ -26,7 +26,8 @@ SunSeeker is a web application that helps users find the sunniest vacation desti
 - Python 3.8+
 - Node.js 14+ and npm
 - Git
-
+- ESLint
+- PyLint
 
 ## Project Structure
 ```bash

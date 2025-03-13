@@ -1,0 +1,22 @@
+{
+  "name": "sun-seeker",
+  "version": "1.0.0",
+  "description": "SunSeeker is a web application that helps users find the sunniest vacation destinations based on their current location. Simply enter where you are, and SunSeeker will recommend the best places nearby for a week-long holiday with maximum sunshine.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alegiardi/sun-seekers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alegiardi/sun-seekers/issues"
+  },
+  "homepage": "https://github.com/alegiardi/sun-seekers#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.51.0",
+    "@types/node": "^22.13.10"
+  }
+}
