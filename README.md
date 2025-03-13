@@ -29,6 +29,7 @@ SunSeeker is a web application that helps users find the sunniest vacation desti
 
 
 ## Project Structure
+```bash
 sun-seeker/
 │
 ├── README.md
@@ -51,6 +52,7 @@ sun-seeker/
     │   ├── services/
     │   └── index.js
     └── package.json
+```
 
 <!-- ## API Integration -->
 <!-- This project uses weather data from [provider name] API. You'll need to:
